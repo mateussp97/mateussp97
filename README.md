@@ -56,9 +56,9 @@
 <br>
 
 <p>
-  <img align="start" src="https://github-readme-stats.vercel.app/api/top-langs?username=mateussp97&show_icons=true&theme=dracula&locale=en&layout=compact" alt="mateussp97" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mateussp97&show_icons=true&theme=dracula&locale=en&layout=compact" alt="mateussp97" />
 </p>
 
 <p>
-  &nbsp;<img align="start" src="https://github-readme-stats.vercel.app/api?username=mateussp97&show_icons=true&theme=dracula&locale=en" alt="mateussp97" />
+  &nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mateussp97&show_icons=true&theme=dracula&locale=en" alt="mateussp97" />
 </p>
