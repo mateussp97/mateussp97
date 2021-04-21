@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Mateus :)</h1>
 
-### I have mastery of the three main stacks of web development:
+## I have mastery of the **THREE MAIN STACKS** of web development:
 
 <p align="left">
   <a href="https://www.w3schools.com/css/" target="_blank">
@@ -16,7 +16,7 @@
 
 <br>
 
-### I currently work and study **every day** using:
+## I currently work and study **EVERY DAY** using:
 
 <p align="left">
   <a href="https://www.typescriptlang.org/" target="_blank">
