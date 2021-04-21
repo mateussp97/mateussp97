@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Mateus :)</h1>
 
-## I have mastery of the **THREE MAIN STACKS** of web development:
+I have mastery of the **THREE MAIN STACKS** of web development:
 
 <p align="left">
   <a href="https://www.w3schools.com/css/" target="_blank">
@@ -14,9 +14,7 @@
   </a>
 </p>
 
-<br>
-
-## I currently work and study **EVERY DAY** using:
+I currently work and study **EVERY DAY** using:
 
 <p align="left">
   <a href="https://www.typescriptlang.org/" target="_blank">
@@ -45,15 +43,9 @@
   </a>
 </p>
 
-<br>
+All of my projects are available at [https://mateuspaula.dev/](https://mateuspaula.dev/)
 
-### All of my projects are available at [https://mateuspaula.dev/](https://mateuspaula.dev/)
-
-<br>
-
-### You can send me an email mateusdesouzapaula97@gmail.com or call me on [Linkedin](https://www.linkedin.com/in/mateus-souza-06a81b123/)
-
-<br>
+You can send me an email mateusdesouzapaula97@gmail.com or call me on [Linkedin](https://www.linkedin.com/in/mateus-souza-06a81b123/)
 
 <p>
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mateussp97&show_icons=true&theme=dracula&locale=en&layout=compact" alt="mateussp97" />
