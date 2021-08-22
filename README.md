@@ -32,10 +32,7 @@ All of my projects are available at [https://mateusdesouza.vercel.app/](https://
 
 You can send me an email mateusdesouzapaula97@gmail.com or call me on [Linkedin](https://www.linkedin.com/in/mateus-souza-06a81b123/)
 
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mateussp97&show_icons=true&theme=dracula&locale=en&layout=compact" alt="mateussp97" />
-</p>
-
-<p>
-  &nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mateussp97&show_icons=true&theme=dracula&locale=en" alt="mateussp97" />
-</p>
+<div align="center">
+    <img height="220em" src="https://github-readme-stats.vercel.app/api?username=mateussp97&show_icons=true&t&theme=radical"/>
+    <img height="220em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mateussp97&langs_count=4)](https://github.com/anuraghazra/github-readme-statsCompact&theme=radical"/>
+</div>
