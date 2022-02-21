@@ -28,7 +28,7 @@ I currently work and study **EVERY DAY** using:
   <img src="./icons/nodejs.png">&nbsp;
 </p>
 
-All of my projects are available at [https://mateusdesouza.vercel.app/](https://mateusdesouza.vercel.app/)
+All of my projects are available at [https://mateusdepaula.vercel.app/](https://mateusdepaula.vercel.app/)
 
 You can send me an email mateusdesouzapaula97@gmail.com or call me on [Linkedin](https://www.linkedin.com/in/mateus-souza-06a81b123/)
 
