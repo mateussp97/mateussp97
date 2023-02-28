@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Mateus :)</h1>
+<img src='https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=250&section=header&text=Mateus%20Paula&fontSize=70&fontAlignY=35&desc=Front-end%20Developer%20and%20UI%20Designer&descAlignY=50' />
 
 I have mastery of the **THREE MAIN STACKS** of web development:
 
