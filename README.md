@@ -28,7 +28,7 @@ Front-end technologies that I always use in my projects:
 - Prismic CMS
 - Sanity.io
 
-All of my projects are available at [https://mateusdepaula.vercel.app/](https://mateusdepaula.vercel.app/)
+All of my projects are available at [https://www.mateuspaula.dev/](https://www.mateuspaula.dev/)
 
 You can send me an email mateusdesouzapaula97@gmail.com or call me on [Linkedin](https://www.linkedin.com/in/mateus-souza-06a81b123/)
 
