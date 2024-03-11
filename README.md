@@ -31,7 +31,3 @@ Front-end technologies that I always use in my projects:
 All of my projects are available at [https://www.mateuspaula.dev/](https://www.mateuspaula.dev/)
 
 You can send me an email mateusdesouzapaula97@gmail.com or call me on [Linkedin](https://www.linkedin.com/in/mateus-souza-06a81b123/)
-
-<div align="center">
-    <img height="220em" src="https://github-readme-stats.vercel.app/api?username=mateussp97&show_icons=true&t&theme=radical"/>
-</div>
